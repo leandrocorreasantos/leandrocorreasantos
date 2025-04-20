@@ -1,16 +1,38 @@
-## Hi there 👋
+## Olá! 👋
 
-<!--
-**leandrocorreasantos/leandrocorreasantos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Atualmente, estou trabalhando em meus projetos pessoais
+- 🌱 Estou aprendendo Golang, C# e aprimorando meu inglês
+- 😄 Pronomes: ele/dele
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://github.com/leandrocorreasantos">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leandrocorreasantos&show_icons=true&include_all_commits=true&count_private=true&theme=dracula&locale=pt-br" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leandrocorreasantos&layout=donut&theme=dracula&locale=pt-br" />
+  </a>
+</div>
+<div style="display: inline-block">
+<img align="center" width="60" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img align="center" width="60" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" />
+<img align="center" width="60" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+<img align="center" width="60" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+<img align="center" width="60" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" />
+<img align="center" width="60" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" />
+<img align="center" width="60" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+<img align="center" width="60" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" />
+<img align="center" width="60" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/heroku/heroku-original.svg" />
+<img align="center" width="60" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" />
+<img align="center" width="60" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg" />
+<img align="center" width="60" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+<img align="center" width="60" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original-wordmark.svg" />
+<img align="center" width="60" height="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 
+
+<div>
+  <a href="mailto:leandro.admo@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a>
+  <a href="https://agenciahipernauta.com.br" target="_blank"> <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" /> </a>
+  <a href="https://wa.me/+5544988114321" target="_blank"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /> </a>
+  <a href="https://www.linkedin.com/in/leandro-santos-5696802a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
+  <a href="https://twitch.tv/leozebul" target="_blank"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /> </a>
+</div>
