@@ -35,3 +35,12 @@
   <a href="https://www.linkedin.com/in/leandro-santos-5696802a/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   <a href="https://twitch.tv/leozebul" target="_blank"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" /> </a>
 </div>
+
+##
+
+<div style="display: inline-block">
+  <img src="https://img.shields.io/github/followers/leandrocorreasantos" />
+  <img src="https://img.shields.io/github/stars/leandrocorreasantos" />
+  <img src="https://img.shields.io/twitch/status/leozebul" />
+ <img src="https://wakatime.com/badge/user/dc4fa62f-3b77-4284-87e1-1687b7e0495f.svg" />
+</div>
