@@ -1,7 +1,7 @@
 ## Olá! 👋
 
 - 🔭 Atualmente, estou trabalhando em meus projetos pessoais
-- 🌱 Estou aprendendo Golang, C# e aprimorando meu inglês
+- 🌱 Estou aprendendo Golang, Next.js e aprimorando meu inglês
 - 😄 Pronomes: ele/dele
 
 <div>
